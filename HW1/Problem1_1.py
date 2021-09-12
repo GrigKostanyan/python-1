@@ -1,0 +1,2 @@
+project = 'cake'
+print(project)
